@@ -1,0 +1,5 @@
+# Log files
+*.log
+
+app/wp-config.php
+app/.htaccess
